@@ -1,8 +1,7 @@
 ### E aí pessoal!! Tudo bem? 
 
-Eu sou Pedro Belmino, Líder de Engenharia na CWI Software [CWI Software](https://www.cwi.com.br/).
+Eu sou Pedro Belmino, Líder de Engenharia na CWI Software [CWI Software](https://www.cwi.com.br/). Escrevo alguns artigos no [Medium](https://medium.com/@pedrobelmino?p=634764b4227e).
 
-Escrevo alguns artigos no [Medium](https://medium.com/@pedrobelmino?p=634764b4227e).
 
 ## ⚡ Minhas stacks
 
