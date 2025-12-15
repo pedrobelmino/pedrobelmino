@@ -29,7 +29,12 @@ Minha experiência é concentrada em desenvolvimento de **Backend** e **Cloud Co
 
 ---
 
-## 🔝 Destaque Principal: Projeto Recente
+## 🔝 Projetos em Destaque
+
+### ⚡ Spring Batch + Virtual Threads
+Prova de conceito demonstrando o ganho de performance e throughput no processamento em lote (batch) utilizando as novas Virtual Threads do Java 21 em conjunto com o Spring Batch.
+* **Tech:** `Java 21`, `Spring Boot 3`, `Spring Batch`, `Virtual Threads`
+* **Repo:** [pedrobelmino/springbatch-virtual-threads](https://github.com/pedrobelmino/springbatch-virtual-threads)
 
 ### 🛴 Spring LangChain4j - Aluguel de Patinetes (AI/GenAI)
 Sistema de aluguel de patinetes acionado por prompts de linguagem natural. Demonstra a integração de LLMs (Large Language Models) com o ecossistema Spring Boot.
