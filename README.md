@@ -31,6 +31,11 @@ Minha experiência é concentrada em desenvolvimento de **Backend** e **Cloud Co
 
 ## 🔝 Projetos em Destaque
 
+### 🤖 Spring AI + MCP Server (MySQL)
+Implementação de um servidor seguindo o Model Context Protocol (MCP) utilizando Spring AI para expor a estrutura e os dados de um banco MySQL como ferramentas (tools) para modelos de linguagem (LLMs).
+* **Tech:** `Java 21`, `Spring Boot 3.4`, `Spring AI`, `MCP`, `MySQL`
+* **Repo:** [pedrobelmino/spring-ai-mcpserver-mysqldb](https://github.com/pedrobelmino/spring-ai-mcpserver-mysqldb)
+
 ### ⚡ Spring Batch + Virtual Threads
 Prova de conceito demonstrando o ganho de performance e throughput no processamento em lote (batch) utilizando as novas Virtual Threads do Java 21 em conjunto com o Spring Batch.
 * **Tech:** `Java 21`, `Spring Boot 3`, `Spring Batch`, `Virtual Threads`
