@@ -50,11 +50,3 @@ Prova de conceito demonstrando o ganho de performance e throughput no processame
 Sistema de aluguel de patinetes acionado por prompts de linguagem natural. Demonstra a integração de LLMs (Large Language Models) com o ecossistema Spring Boot.
 * **Tech:** `Java`, `Spring Boot`, `LangChain4j`
 * **Repo:** [pedrobelmino/spring-langchain4j-aluguel-patinetes](https://github.com/pedrobelmino/spring-langchain4j-aluguel-patinetes)
-
----
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrobelmino&show_icons=true&theme=dracula" alt="Estatísticas do GitHub de Pedro" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobelmino&layout=compact&langs_count=6&theme=dracula" alt="Principais Linguagens" />
-</div>
