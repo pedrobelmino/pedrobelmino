@@ -31,6 +31,11 @@ Minha experiência é concentrada em desenvolvimento de **Backend** e **Cloud Co
 
 ## 🔝 Projetos em Destaque
 
+### 🦙 Open WebUI + LLaMA (Go)
+Implementação focada na integração e consumo de modelos LLaMA locais, utilizando a linguagem Go para orquestração e comunicação direta com a interface do Open WebUI.
+* **Tech:** `Go`, `LLaMA`, `Open WebUI`, `Ollama`
+* **Repo:** [pedrobelmino/openwebui-llama-go](https://github.com/pedrobelmino/openwebui-llama-go)
+
 ### 🤖 Spring AI + MCP Server (MySQL)
 Implementação de um servidor seguindo o Model Context Protocol (MCP) utilizando Spring AI para expor a estrutura e os dados de um banco MySQL como ferramentas (tools) para modelos de linguagem (LLMs).
 * **Tech:** `Java 21`, `Spring Boot 3.4`, `Spring AI`, `MCP`, `MySQL`
@@ -47,9 +52,9 @@ Sistema de aluguel de patinetes acionado por prompts de linguagem natural. Demon
 * **Repo:** [pedrobelmino/spring-langchain4j-aluguel-patinetes](https://github.com/pedrobelmino/spring-langchain4j-aluguel-patinetes)
 
 ---
+## 📊 Estatísticas do GitHub
 
-## 📈 Minhas Estatísticas do GitHub
-
-| Estatísticas Gerais | Linguagens Principais |
-| :--- | :--- |
-| ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrobelmino&show_icons=true&theme=onedark&line_height=25&hide_title=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobelmino&layout=compact&theme=onedark&line_height=25&hide_title=true) |
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrobelmino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Pedro" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobelmino&layout=compact&langs_count=6&theme=dracula" alt="Principais Linguagens" />
+</div>
