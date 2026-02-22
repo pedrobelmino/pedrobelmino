@@ -12,9 +12,9 @@ Minha experiência é concentrada em desenvolvimento de **Backend** e **Cloud Co
 
 | Área | Tecnologia |
 | :--- | :--- |
-| **Backend** | Java, Spring Boot, Node.js, PHP |
+| **Backend** | Java, Spring Boot, PHP |
 | **Cloud/DevOps** | Google Cloud Platform (GCP), Docker, Git |
-| **Bancos de Dados** | MySQL, Microsoft SQL Server |
+| **Bancos de Dados** | MySQL, Microsoft SQL Server, Oracle |
 
 ---
 
@@ -24,7 +24,6 @@ Minha experiência é concentrada em desenvolvimento de **Backend** e **Cloud Co
 | :--- | :--- |
 | **Java Ecosystem** | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) |
 | **Cloud & DevOps** | ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) |
-| **Outras Linguagens** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white) |
 | **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) |
 
 ---
