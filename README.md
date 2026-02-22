@@ -28,7 +28,7 @@ Minha experiência é concentrada em desenvolvimento de **Backend** e **Cloud Co
 
 ---
 
-## 🔝 Projetos em Destaque
+## 🔝 Projetos em Destaque(2026)
 
 ### 🦙 Open WebUI + LLaMA (Go)
 Implementação focada na integração e consumo de modelos LLaMA locais, utilizando a linguagem Go para orquestração e comunicação direta com a interface do Open WebUI.
