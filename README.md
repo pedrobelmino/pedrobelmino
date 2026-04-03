@@ -54,4 +54,3 @@ Sistema de aluguel de patinetes acionado por prompts de linguagem natural. Demon
 Implementação do MVP de um game com apoio de cursor, experimentação e codificação em tecnologias desconhecidas
 * **Tech:** `Godot`
 * **Repo:** [[pedrobelmino/spring-langchain4j-aluguel-patinetes](https://github.com/pedrobelmino/spring-langchain4j-aluguel-patinetes)](https://github.com/pedrobelmino/godot-lampiao-souls)
-* 
