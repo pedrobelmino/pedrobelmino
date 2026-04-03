@@ -1,6 +1,6 @@
 ### E aí pessoal!! Tudo bem? 👋
 
-Eu sou **Pedro Belmino**, **Engenheiro de Software Sênior** no **[Bankly](https://www.bankly.com.br/)**. Minha paixão é construir sistemas robustos e escaláveis, utilizando arquiteturas modernas e o ecossistema Java/Spring.
+Eu sou **Pedro Belmino**, **Engenheiro de Software Sênior** no **[BancoBV](https://www.bankly.com.br/](https://www.bv.com.br/))**. Minha paixão é construir sistemas robustos e escaláveis, utilizando arquiteturas modernas e o ecossistema Java/Spring.
 
 Compartilho insights e tutoriais de tecnologia no meu [Medium](https://medium.com/@pedrobelmino?p=634764b4227e).
 
