@@ -45,11 +45,6 @@ Prova de conceito demonstrando o ganho de performance e throughput no processame
 * **Tech:** `Java 21`, `Spring Boot 3`, `Spring Batch`, `Virtual Threads`
 * **Repo:** [pedrobelmino/springbatch-virtual-threads](https://github.com/pedrobelmino/springbatch-virtual-threads)
 
-### 🛴 Spring LangChain4j - Aluguel de Patinetes (AI/GenAI)
-Sistema de aluguel de patinetes acionado por prompts de linguagem natural. Demonstra a integração de LLMs (Large Language Models) com o ecossistema Spring Boot.
-* **Tech:** `Java`, `Spring Boot`, `LangChain4j`
-* **Repo:** [pedrobelmino/spring-langchain4j-aluguel-patinetes](https://github.com/pedrobelmino/spring-langchain4j-aluguel-patinetes)
-
 ### 🤖  Game Lampeão Souls (Godot)
 Implementação do MVP de um game com apoio do CursorAI, experimentação e codificação em tecnologias desconhecidas
 * **Tech:** `Godot`
